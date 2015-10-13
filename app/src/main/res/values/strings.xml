@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Englishtest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_finish_test">finish_test</string>
+    <string name="title_activity_word_test">WordTestActivity</string>
+</resources>
